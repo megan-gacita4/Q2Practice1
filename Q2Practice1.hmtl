@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q2 Practice 1</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playwrite+US+Modern:wght@100..400&display=swap" rel="stylesheet">
+
+
+
+    <style>
+        h1{
+            color: rgb(222, 203, 234);
+            font-family: Playwrite US Modern, monospace;
+        }
+        p{
+            font-family: Dancing Script;
+            color: #e5c9f2;
+        }
+        div{
+            background-color: rgb(186, 143, 202);
+            border-radius: 20px;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <h1>
+        My First Github Page
+    </h1>
+    <br> 
+    <p>My first time coding was fun but hard to do. It wasn't my favorite thing to be doing but whenever I do something right I feel happy and proud. I hope to do better so I can imporve and learn lots from sir Renn.</p>
+    </div>
+    
+</body>
+</html>
